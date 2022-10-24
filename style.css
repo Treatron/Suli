@@ -1,4 +1,9 @@
+body {
+background-color: aqua;
+
+}
+
 img {
-    border-radius: 8px;
-    width: 20cm;
-  }
+    border: 5px;
+    width: 25cm;
+}
